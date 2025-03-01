@@ -1,2 +1,2 @@
-# CASA Current & Savings Account Performance
+# Current Account Savings Account (CASA) Performance
 Cleaned and managed Current Account Savings Account (CASA) data, including deposits in checking and savings accounts, and Branch Balance Sheet data related to branch office performance, using Python and BigQuery. Designed and developed financial trend dashboards using Tableau based on CASA and Balance Sheet data to support internal analysis, enhancing data visualization for more effective insights.
